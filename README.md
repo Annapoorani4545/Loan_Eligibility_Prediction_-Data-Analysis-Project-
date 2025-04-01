@@ -4,7 +4,10 @@
 This project aims to build a robust loan approval prediction model using **data preprocessing, feature engineering, and machine learning algorithms**. By analyzing **income levels, credit history, loan amount, and other financial factors**, we predict whether an applicant is eligible for a loan. The model is trained using **XGBoost**, a high-performance boosting algorithm, ensuring both **accuracy and interpretability** with **SHAP feature importance analysis**.
 
 ---
-## **Data Source - Kaggle Public Dataset :** https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset/data
+
+**Data Source - Kaggle Public Dataset :** https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset/data
+
+---
 
 ## **Data Insights & Preprocessing**  
 
